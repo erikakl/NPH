@@ -1,0 +1,6 @@
+
+git commmit -m message
+git add filename
+git push
+git pull
+
